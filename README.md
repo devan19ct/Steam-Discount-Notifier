@@ -42,7 +42,7 @@ Open the wishlist-notifier.js file in a text editor of your choice.
 
 # Find the following line #
 
-" const wishlistUrl = 'https://store.steampowered.com/wishlist/profiles/ Your Whishlist ID'; " ( line 8 maybe )
+" const wishlistUrl = " 'https://store.steampowered.com/wishlist/profiles/ Your Whishlist ID' " ( line 8 maybe )
 
 Replace the URL with your Steam wishlist URL. You can find this URL by visiting your Steam profile, navigating to your wishlist, and copying the URL from your browser's address bar.
 
