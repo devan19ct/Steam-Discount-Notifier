@@ -61,6 +61,12 @@ Contributions to this project are welcome! Feel free to open issues, suggest enh
 # Disclaimer #
 This browser extension is provided for informational and educational purposes only. We do not endorse or promote any form of piracy or illegal activities related to gaming. Use this extension responsibly and support game developers by purchasing games through official channels.
 
+# Here are some interesting Plugins for Steam #
+
+[Steam_Cracked_Category ](https://github.com/JOHNNY-DAN/Steam_Cracked_Category) by [JOHNNY-DAN](https://github.com/JOHNNY-DAN)
+
+
+
 # License #
 This is an opensource project just for educational purpose for gamers and developers...
 
