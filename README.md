@@ -58,6 +58,12 @@ Complete the wizard to create the task.
 
 Contributions to this project are welcome! Feel free to open issues, suggest enhancements, or submit pull requests to help improve Steam Discount Notifier.
 
+# Disclaimer #
+This browser extension is provided for informational and educational purposes only. We do not endorse or promote any form of piracy or illegal activities related to gaming. Use this extension responsibly and support game developers by purchasing games through official channels.
+
+# License #
+This is an opensource project just for educational purpose for gamers and developers...
+
 # Author #
 
 Devan M
